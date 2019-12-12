@@ -1,7 +1,7 @@
 # KristibelCarbonell.github.io
 <h1>Datos Personales</h1>
 
-<p><img src="descargas/80199962_471261753531026_798575673210830848_o">
+<p><img src="descargas/80199962_471261753531026_798575673210830848_o.jpg">
 <p><strong>Nombre Completo:</strong> Kristibel Carbonel
 <p><strong>Fecha Nacimiento:</strong> 12 de febrero de 2001
 <p><strong>Edad:</strong> 18 años
