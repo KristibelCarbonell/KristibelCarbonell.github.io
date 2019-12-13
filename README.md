@@ -8,12 +8,13 @@
 <p><strong>Edad:</strong> 18 años
 <p><strong>Nacionalidad:</strong> Venezolana 
 
-<h1>Datos Educativos</h1>
+<h2>Datos Educativos</h2>
 <p><strong>Escuelas:</strong><p>
 <p><em>- Primaria: Juan Vicente Camacho </em>
 <p><em>- Premedia y media: Juan vicente Camacho. </em>
 <p><strong>Universidad:</strong>
 <P><em>- Universidad Nacional de Panamá</em>
-<h1>Redes Sociales</h1>
+  <hr>
+<h2>Redes Sociales</h2>
 <p><strong>Facebook:</strong> <a href="https://www.facebook.com/valentinacarbonell">Valentina Carbonel</a>
 <p><strong>Instagram:</strong> <a href="https://www.instagram.com/valentin5a/">Valentin5a</a>
