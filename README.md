@@ -7,7 +7,7 @@
 <p><strong>Fecha Nacimiento:</strong> 12 de febrero de 2001
 <p><strong>Edad:</strong> 18 años
 <p><strong>Nacionalidad:</strong> Venezolana 
-
+<hr>
 <h2>Datos Educativos</h2>
 <p><strong>Escuelas:</strong><p>
 <p><em>- Primaria: Juan Vicente Camacho </em>
