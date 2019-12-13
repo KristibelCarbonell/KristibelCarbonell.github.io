@@ -18,3 +18,9 @@
 <h2>Redes Sociales</h2>
 <p><strong>Facebook:</strong> <a href="https://www.facebook.com/valentinacarbonell">Valentina Carbonel</a>
 <p><strong>Instagram:</strong> <a href="https://www.instagram.com/valentin5a/">Valentin5a</a>
+<hr>
+  <h3> Mùsica que me gustan</h3>
+
+  <audio src="github/Perfect Duet Live - Beyoncé and Ed Sheeran (GOEAR.MP3).mp3" controls="controls">
+    Su navegador no es compatiblecon el elemento de audio
+</audio>
