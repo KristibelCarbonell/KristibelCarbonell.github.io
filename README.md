@@ -19,31 +19,5 @@
 <p><strong>Facebook:</strong> <a href="https://www.facebook.com/valentinacarbonell">Valentina Carbonel</a>
 <p><strong>Instagram:</strong> <a href="https://www.instagram.com/valentin5a/">Valentin5a</a>
 <hr>
-  <h3> Mùsicas que me gustan</h3>
 
-  <audio src="github/Perfect Duet Live - Beyoncé and Ed Sheeran (GOEAR.MP3).mp3" controls="controls">
-    Su navegador no es compatible con el elemento de audio
-</audio>
-<p><strong>Ubicación:</strong></p>
-<p>Haz click para poder obtener las coordenadas</p>
-<button onclick="getLocation()">Pruébalo</button>
-<script>
-  
-var x = document.getElementById("demo");
-
-function getLocation() {
-  if (navigator.geolocation) {
-    navigator.geolocation.watchPosition(showPosition);
-  } else { 
-    x.innerHTML = "Geolocation is not supported by this browser.";
-  }
-}
-    
-function showPosition(position) {
-    x.innerHTML="Latitude: " + position.coords.latitude + 
-    "<br>Longitude: " + position.coords.longitude;
-}
-
-</sript>
-<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d2272.664171827283!2d-79.53119102673881!3d8.983403877992739!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2spa!4v1573616558670!5m2!1ses!2spa" width="380" height="410" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
