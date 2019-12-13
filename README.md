@@ -1,7 +1,7 @@
-# KristibelCarbonell.github.io
+# Kristibel Carbonell
 <h1>Biografía</h1>
 
-<div align="center"> <p><img src="https://scontent.fpac1-2.fna.fbcdn.net/v/t1.0-0/p480x480/80199962_471261753531026_798575673210830848_o.jpg?_nc_cat=104&_nc_ohc=0vsyPilFJSMAQloMhN3TmLUimDbHV8AbM2vpBa3ZGXhb37YWAOJtLMpYw&_nc_ht=scontent.fpac1-2.fna&oh=adaea4dc4f449f3a3dfe70f0ef4d50fd&oe=5E7E3A65" width= "250" height= "400" > </div>
+<div align="center"> <p><img src="https://scontent.fpac1-2.fna.fbcdn.net/v/t1.0-0/p480x480/80199962_471261753531026_798575673210830848_o.jpg?_nc_cat=104&_nc_ohc=0vsyPilFJSMAQloMhN3TmLUimDbHV8AbM2vpBa3ZGXhb37YWAOJtLMpYw&_nc_ht=scontent.fpac1-2.fna&oh=adaea4dc4f449f3a3dfe70f0ef4d50fd&oe=5E7E3A65" width= "250" height= "400" >
 <hr>
 <p><strong>Nombre Completo:</strong> Kristibel Carbonel
 <p><strong>Fecha Nacimiento:</strong> 12 de febrero de 2001
