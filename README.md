@@ -69,7 +69,7 @@
 
 <body onload = "getLoc()">
 
-  <h1>Geolocation Demo</h1>
+  <h1>Geolocation</h1>
 
 
 
